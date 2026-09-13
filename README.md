@@ -25,10 +25,6 @@ These scripts are meant to run inside a disposable VM or sandbox, not on a machi
 - If a lab spins up a cloud VM, follow its cleanup steps when you're finished — an instance left running is a bill nobody wants.
 - These labs are for learning. They are not hardened for production use and shouldn't be pointed at anything sensitive.
 
-## Versioning
-
-The main [Project Aegis Forge site](https://projectaegisforge.com) links to a **tagged release** of this repo, not the `main` branch — so a lab you find from the site today will still work the same way months from now, even as new labs get added or old ones get revised on `main`.
-
 ## Contributing
 
 Found a bug in a lab, or want to suggest a new one? Open an issue using the templates in `.github/`. Pull requests are welcome — see the PR template for what to include.
