@@ -1,6 +1,6 @@
-# AegisShield Labs
+# AegisForge Labs
 
-Hands-on labs that pair with the [Project AegisShield](https://projectaegisshield.com) roadmap. Each lab gives you a short set of instructions and a script that spins up a VM, so you can practice a skill instead of just reading about it.
+Hands-on labs that pair with the [Project Aegis Forge](https://projectaegisforge.com) roadmap. Each lab gives you a short set of instructions and a script that spins up a VM, so you can practice a skill instead of just reading about it.
 
 ## How to use these labs
 
