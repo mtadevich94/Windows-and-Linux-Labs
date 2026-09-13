@@ -27,7 +27,7 @@ These scripts are meant to run inside a disposable VM or sandbox, not on a machi
 
 ## Versioning
 
-The main [AegisShield site](https://projectaegisshield.com) links to a **tagged release** of this repo, not the `main` branch — so a lab you find from the site today will still work the same way months from now, even as new labs get added or old ones get revised on `main`.
+The main [Project Aegis Forge site](https://projectaegisforge.com) links to a **tagged release** of this repo, not the `main` branch — so a lab you find from the site today will still work the same way months from now, even as new labs get added or old ones get revised on `main`.
 
 ## Contributing
 
