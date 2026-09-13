@@ -13,8 +13,8 @@ Hands-on labs that pair with the [Project Aegis Forge](https://projectaegisforge
 
 | Lab | Topic | OS | Difficulty | Est. Time |
 |---|---|---|---|---|
-| [01-windows-navigation](labs/01-windows-navigation/) | Navigating and searching the filesystem | Windows | Beginner | 30–45 min |
-| [02-linux-navigation](labs/02-linux-navigation/) | Navigating and searching the filesystem | Linux | Beginner | 30–45 min |
+| [01-windows-navigation](https://github.com/mtadevich94/Windows-and-Linux-Labs/tree/main/labs/Windows%20Labs) | Navigating and searching the filesystem | Windows | Beginner | 30–45 min |
+| [02-linux-navigation](https://github.com/mtadevich94/Windows-and-Linux-Labs/tree/main/labs/linux%20labs) | Navigating and searching the filesystem | Linux | Beginner | 30–45 min |
 
 ## Safety notice
 
