@@ -15,7 +15,7 @@ Hands-on labs that pair with the [Project Aegis Forge](https://projectaegisforge
 |---|---|---|---|---|
 | [01-Windows-admin-and-navigation](https://github.com/mtadevich94/Windows-and-Linux-Labs/tree/main/labs/Windows%20Labs) | Navigating and searching the filesystem | Windows | Beginner | 30–45 min |
 | [02-linux-admin-and-navigation](https://github.com/mtadevich94/Windows-and-Linux-Labs/tree/main/labs/linux%20labs) | Navigating and searching the filesystem | Linux | Beginner | 30–45 min |
-| [03-Wireshark-labs] () | Navigating Wireshark to investigate network traffic and perform packet analysis | Beginner | 4-6 hours |
+| [03-Wireshark-labs](https://github.com/mtadevich94/Windows-and-Linux-Labs/tree/main/labs/Wireshark%20Labs%20) | Navigating Wireshark to investigate network traffic and perform packet analysis | Beginner | 4-6 hours |
 
 ## Safety notice
 
